@@ -1,6 +1,6 @@
-#This Script id created by TermuxProfessor
+#This Script id created by diyarreal
 #Don't copy or modify code Read License First
-#Subscribe me on YouTube www.youtube.com/c/TermuxProfessor
+#Subscribe me on Telegram https://t.me/sorgupaneli153
 clear
 echo ""
 echo -e "         \e[1;91m__\e[1;92m,-\e[1;93m////\e[1;92m, "
@@ -16,8 +16,8 @@ echo -e "                 \ \'      "
 echo -e "                  \ \     "
 echo -e "                   '-'    \e[1;97m "
 echo ""
-echo -e "\e[1;91m [+] YouTube: \e[1;92mTermuxProfessor"
-echo -e "\e[1;91m [+] Github: \e[1;92mtermuxprofessor\e[1;97m"
+echo -e "\e[1;91m [+] Telegram: \e[1;92m153 Forum"
+echo -e "\e[1;91m [+] Github: \e[1;92m153forumpitbol\e[1;97m"
 echo ""
 read -p " Does you want to install Parrot Shell in Termux?(Yes/No) : " input
 
